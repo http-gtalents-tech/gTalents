@@ -4,4 +4,5 @@ Bug tracker for gTalents
  - Use branch bugfix for bugs
  - Use feature for new features
 
- - Conflicts might happen
+ - Okay no this is not a 
+
